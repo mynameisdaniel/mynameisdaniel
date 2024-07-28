@@ -1,4 +1,9 @@
-## Hi there 👋
+👋 Hi, I'm Daniel Chan! I'm a Lead Software Engineer at Coupa Software <img src="https://avatars.githubusercontent.com/u/58638?s=64&amp;v=4" alt="@coupa" size="16" height="16" width="16" data-view-component="true" class="avatar">. I have 10 years of experience building solutions that help companies keep their spend under management.
+
+## Technical Skills 🛠️
+- **Languages:** Ruby, JavaScript, TypeScript
+- **Frameworks & Libraries:** React, Rails
+- **Tools & Platforms:** GitHub, New Relic
 
 <!--
 **mynameisdaniel/mynameisdaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
